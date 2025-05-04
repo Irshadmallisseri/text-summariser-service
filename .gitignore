@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+
+# Python environment files
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.db
+
+# Model files or large downloads (optional)
+*.pt
+*.ckpt
+*.onnx
+
+# VSCode and other editor settings
+.vscode/
+.idea/
+
+# Coverage and test reports
+htmlcov/
+coverage.xml
+*.cover
+*.pytest_cache/
+
+# Transcription temp files (if Whisper uses them)
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.temp*
